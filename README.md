@@ -1,6 +1,6 @@
-### Hi, I’m Ryan. I am the Associate Director of Housing Systems for a Housing Department in Higher Education. 
+### Hi, I’m Ryan. I am an Integration Developer for an ITS Division in Higher Education. 
 
 
 - 👀 I’m interested in making open source databases models to help universities.
 - 🌱 I’m currently learning Node.js
-- 📫 How to reach me: **[Email](mailto:ryan@ryanevaul.com)**
+- 📫 How to reach me: **[Email](mailto:ryan+githubprofile@ryanevaul.com)**
